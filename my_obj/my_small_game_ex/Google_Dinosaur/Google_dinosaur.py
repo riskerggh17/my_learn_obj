@@ -1,6 +1,6 @@
 import pygame
 import random
-
+#
 # 初始化pygame
 pygame.init()
 
